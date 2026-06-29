@@ -1,0 +1,18 @@
+======================================================================
+                     RAHASIA - DATA INTERNAL SEMENTARA                     
+======================================================================
+Kategori Data : Rekam Jejak Sesi Aktivitas Komunitas (Sandbox)
+Status        : Pengujian Enkripsi Lokal
+
+[LOG RIWAYAT SESI]
+- Sesi 01: Keuntungan bersih +Rp550.000 (Metode: Agresif, Target tercapai)
+- Sesi 02: Kerugian bersih -Rp200.000 (Kesalahan: Gagal menyesuaikan indeks visual)
+- Sesi 03: Keuntungan bersih +Rp1.200.000 (Total saldo diperbarui)
+
+[KONFIGURASI SISTEM REKAP]
+* Ekspor Data : Menggunakan pemisah semicolon (;) untuk format regional Indonesia
+* Penyimpanan : Direktori lokal terisolasi di dalam VM
+
+======================================================================
+             PERINGATAN: HANYA UNTUK SIMULASI COMPUTER SECURITY             
+======================================================================
