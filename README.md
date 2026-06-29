@@ -17,3 +17,12 @@ Program ini adalah simulasi non-destruktif dari mekanisme kerja Ransomware yang 
    `malware.exe encrypt test.txt`
 3. Proses Dekripsi:
    `malware.exe decrypt test.txt.locked`
+
+   ##  Step-by-Step Verification Procedure
+
+## cara nya:
+
+
+1. **Buka CMD di Direktori:** Buka folder proyek di File Explorer, ketik `cmd` pada *address bar* di atas, lalu tekan **Enter**.
+2. **Kunci File (Enkripsi):** Jalankan perintah `malware.exe encrypt test.txt` untuk mengunci file menjadi `test.txt.locked` (isi teks hancur).
+3. **Buka File (Dekripsi):** Jalankan perintah `malware.exe decrypt test.txt.locked` untuk memulihkan file teks kembali ke kondisi semula.
